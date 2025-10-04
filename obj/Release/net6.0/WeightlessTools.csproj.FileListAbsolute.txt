@@ -1,0 +1,8 @@
+C:\Users\grebe\Downloads\TLD Mods to Edit\Weightless WoodTools\bin\Release\net6.0\WeightlessTools.deps.json
+C:\Users\grebe\Downloads\TLD Mods to Edit\Weightless WoodTools\bin\Release\net6.0\WeightlessTools.dll
+C:\Users\grebe\Downloads\TLD Mods to Edit\Weightless WoodTools\obj\Release\net6.0\WeightlessTools.csproj.AssemblyReference.cache
+C:\Users\grebe\Downloads\TLD Mods to Edit\Weightless WoodTools\obj\Release\net6.0\WeightlessTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grebe\Downloads\TLD Mods to Edit\Weightless WoodTools\obj\Release\net6.0\WeightlessTools.csproj.CoreCompileInputs.cache
+C:\Users\grebe\Downloads\TLD Mods to Edit\Weightless WoodTools\obj\Release\net6.0\WeightlessTools.dll
+C:\Users\grebe\Downloads\TLD Mods to Edit\Weightless WoodTools\obj\Release\net6.0\refint\WeightlessTools.dll
+C:\Users\grebe\Downloads\TLD Mods to Edit\Weightless WoodTools\obj\Release\net6.0\ref\WeightlessTools.dll
