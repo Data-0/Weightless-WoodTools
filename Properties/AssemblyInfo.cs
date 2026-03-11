@@ -8,14 +8,14 @@ using WeightlessWoodTools;
 //ModName, ModVersion, ModAuthor, and ModNamespace.ModClassInheritingFromMelonMod all need changed.
 
 [assembly: AssemblyTitle("WeightlessTools")]
-[assembly: AssemblyCopyright("Data")]
+[assembly: AssemblyCopyright("Data0")]
 
 //Version numbers in C# are a set of 1 to 4 positive integers separated by periods.
 //Mods typically use 3 numbers. For example: 1.2.1
 //The mod version need specified in three places.
 [assembly: AssemblyVersion("0.5.0")]
 [assembly: AssemblyFileVersion("0.5.0")]
-[assembly: MelonInfo(typeof(WeightlessTool), "WeightlessTools", "1.0.0", "Data", null)]
+[assembly: MelonInfo(typeof(WeightlessTool), "WeightlessTools", "1.1.0", "Data0", null)]
 
 //This tells MelonLoader that the mod is only for The Long Dark.
 [assembly: MelonGame("Hinterland", "TheLongDark")]

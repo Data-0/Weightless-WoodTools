@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grebe\\Downloads\\TLD Mods to Edit\\Weightless WoodTools\\WeightlessTools.csproj": {}
+    "C:\\Users\\Cata\\Desktop\\Developed TLD MODS\\Weightless-WoodTools-main\\WeightlessTools.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grebe\\Downloads\\TLD Mods to Edit\\Weightless WoodTools\\WeightlessTools.csproj": {
+    "C:\\Users\\Cata\\Desktop\\Developed TLD MODS\\Weightless-WoodTools-main\\WeightlessTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grebe\\Downloads\\TLD Mods to Edit\\Weightless WoodTools\\WeightlessTools.csproj",
+        "projectUniqueName": "C:\\Users\\Cata\\Desktop\\Developed TLD MODS\\Weightless-WoodTools-main\\WeightlessTools.csproj",
         "projectName": "WeightlessTools",
-        "projectPath": "C:\\Users\\grebe\\Downloads\\TLD Mods to Edit\\Weightless WoodTools\\WeightlessTools.csproj",
-        "packagesPath": "C:\\Users\\grebe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grebe\\Downloads\\TLD Mods to Edit\\Weightless WoodTools\\obj\\",
+        "projectPath": "C:\\Users\\Cata\\Desktop\\Developed TLD MODS\\Weightless-WoodTools-main\\WeightlessTools.csproj",
+        "packagesPath": "C:\\Users\\Cata\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cata\\Desktop\\Developed TLD MODS\\Weightless-WoodTools-main\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\grebe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Cata\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,11 +40,21 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "STBlade.Modding.TLD.Il2CppAssemblies.Windows": {
+              "target": "Package",
+              "version": "[2.51.0, )"
+            },
+            "STBlade.Modding.TLD.ModComponent": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,12 +66,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
